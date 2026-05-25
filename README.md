@@ -1,35 +1,14 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=250&section=header&text=Abdulkadir%20Turan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-
-## 🚀 Full-Stack Engineer | Systems Architect | AI Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&random=false&width=800&lines=Founder+%26+Lead+Developer+%40+Kaless+Statistics;Building+the+Future+of+Data+Analysis;Systems+Engineer+%7C+Low-Level+Enthusiast;From+Kernel+Code+to+Cloud+Architecture)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=250&section=header&text=Abdulkadir%20Turan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20the%20Future%20of%20Data%20Analysis&descAlignY=55&descAlign=62" />
 </div>
 
----
+<h3 align="center">Full-Stack Engineer | Systems Architect | AI Enthusiast</h3>
 
-### 🌟 About Me
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <b>🎓 Education:</b> Computer Programming @ Çukurova University<br>
-      <b>📍 Location:</b> İstanbul, Türkiye<br>
-      <b>💼 Current Role:</b> Founder & Lead Developer @ Kaless<br>
-      <b>🎯 Focus:</b> AI-Powered Systems, Engine Development, Full-Stack SaaS<br>
-      <b>💡 Philosophy:</b> "Build from scratch. Understand every layer."
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=TuranAbdulkadir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0F62FE&icon_color=0F62FE&text_color=c9d1d9&count_private=true" alt="TuranAbdulkadir's GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&random=false&width=800&lines=Founder+%26+Lead+Developer+%40+Kaless+Statistics;Building+High-Performance+Web+Applications;Systems+Engineer+%7C+Low-Level+Enthusiast;From+Kernel+Code+to+Cloud+Architecture" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TuranAbdulkadir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
@@ -37,93 +16,106 @@
 
 ---
 
-### 💻 Tech Arsenal
+### 👨‍💻 About Me
 
-<div align="center">
-  <h4>Languages</h4>
+- 🔭 I'm currently working on **[Kaless Statistics](https://kaless.pro)** - A next-gen AI-powered statistics platform.
+- 🌱 I'm currently deepening my knowledge in **Machine Learning & Deep Learning**.
+- ⚙️ I love building things from scratch (Custom game engines, HTTP servers, databases).
+- 💬 Ask me about **System Architecture, High-Performance Computing, and Next.js**.
+- 📫 How to reach me: **iletisim.kaless@gmail.com**
+- ⚡ Fun fact: I don't use frameworks to learn; I build them to understand every layer.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,java,rust,go,cs,html,css" />
   </a>
-  
-  <h4>Frontend & UI</h4>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma" />
   </a>
-
-  <h4>Backend & Infrastructure</h4>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,supabase,firebase,docker,linux,nginx,vercel" />
   </a>
-  
-  <h4>Tools & Data Science</h4>
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,py,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
   </a>
-</div>
+</p>
 
 ---
 
-### 🔥 Flagship Projects
+### 🚀 Flagship Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3><a href="https://kaless.pro">🌐 Kaless Statistics</a></h3>
-        <p>Next-Gen AI-Powered Statistics Platform</p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </td>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/TuranAbdulkadir/Void-Engine-CPP">🚀 Void Engine</a></h3>
-        <p>Custom 2D Physics & Game Engine from scratch</p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/TuranAbdulkadir/Hyperion-Web-Server">⚡ Hyperion Web Server</a></h3>
-        <p>Multi-Threaded HTTP Server in C++</p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Threads-blue?style=for-the-badge" />
-      </td>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/TuranAbdulkadir/Titan-Database-Java">🗄️ Titan Database</a></h3>
-        <p>In-Memory Key-Value Store with Persistence</p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Database-blue?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://kaless.pro">🌐 Kaless Statistics</a></h3>
+      <p>Next-Gen AI-Powered Statistics Platform</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/TuranAbdulkadir/Void-Engine-CPP">🎮 Void Engine</a></h3>
+      <p>Custom 2D Physics & Game Engine from scratch</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/TuranAbdulkadir/Hyperion-Web-Server">⚡ Hyperion Web Server</a></h3>
+      <p>Multi-Threaded HTTP Server in C++</p>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Threads-blue?style=for-the-badge" />
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/TuranAbdulkadir/Titan-Database-Java">🗄️ Titan Database</a></h3>
+      <p>In-Memory Key-Value Store with Persistence</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Database-blue?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuranAbdulkadir&theme=tokyonight&hide_border=true&background=0d1117&ring=0F62FE&fire=0F62FE&currStreakLabel=0F62FE" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuranAbdulkadir&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0F62FE&line=0F62FE&point=FFFFFF&area=true&area_color=0F62FE" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuranAbdulkadir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0F62FE&icon_color=0F62FE&text_color=c9d1d9&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuranAbdulkadir&theme=tokyonight&hide_border=true&background=0d1117&ring=0F62FE&fire=0F62FE&currStreakLabel=0F62FE" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuranAbdulkadir&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0F62FE&line=0F62FE&point=FFFFFF&area=true&area_color=0F62FE" alt="Activity Graph" />
+</p>
 
 ---
 
 ### 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TuranAbdulkadir/TuranAbdulkadir/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TuranAbdulkadir/TuranAbdulkadir/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TuranAbdulkadir/TuranAbdulkadir/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TuranAbdulkadir/TuranAbdulkadir/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-### 🔗 Connect With Me
+### 📫 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/abdulkadirturan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -133,10 +125,8 @@
   <a href="mailto:iletisim.kaless@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=TuranAbdulkadir&color=0F62FE&style=flat-square&label=PROFILE+VIEWS" />
-</div>
+</p>
