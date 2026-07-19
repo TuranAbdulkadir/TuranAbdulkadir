@@ -1,17 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=250&section=header&text=Abdulkadir%20Turan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20the%20Future%20of%20Data%20Analysis&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F62FE&height=250&section=header&text=Abdulkadir%20Turan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Developer%20in%20Training&descAlignY=55&descAlign=62" />
 </div>
 
-<h3 align="center">Full-Stack Engineer | Systems Architect | AI Enthusiast</h3>
+<h3 align="center">Backend Developer in Training | Systems Programming Enthusiast</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&random=false&width=800&lines=Founder+%26+Lead+Developer+%40+Kaless+Statistics;Building+High-Performance+Web+Applications;Systems+Engineer+%7C+Low-Level+Enthusiast;From+Kernel+Code+to+Cloud+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&random=false&width=800&lines=Building+Databases,+Servers+%26+Game+Engines+from+Scratch;Computer+Programming+Student+%40+%C3%87ukurova+University;Python+%7C+Java+%7C+C%2B%2B+%7C+Learning+Never+Stops" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TuranAbdulkadir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
 
 ---
@@ -31,22 +27,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,java,rust,go,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,js,html,css" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,supabase,firebase,docker,linux,nginx,vercel" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,git,github,vscode,linux" />
   </a>
 </p>
 
@@ -57,31 +48,41 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://kaless.pro">🌐 Kaless Statistics</a></h3>
-      <p>Next-Gen AI-Powered Statistics Platform</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <h3><a href="https://github.com/TuranAbdulkadir/Titan-Database-Java">🗄️ Titan-Database-Java</a></h3>
+      <p>Custom in-memory KV store inspired by Redis</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/TuranAbdulkadir/Void-Engine-CPP">🎮 Void Engine</a></h3>
-      <p>Custom 2D Physics & Game Engine from scratch</p>
+      <h3><a href="https://github.com/TuranAbdulkadir/Hyperion-Web-Server">⚡ Hyperion-Web-Server</a></h3>
+      <p>Multi-threaded HTTP server from scratch</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/TuranAbdulkadir/Hyperion-Web-Server">⚡ Hyperion Web Server</a></h3>
-      <p>Multi-Threaded HTTP Server in C++</p>
+      <h3><a href="https://github.com/TuranAbdulkadir/Void-Engine-CPP">🎮 Void-Engine-CPP</a></h3>
+      <p>Custom 2D physics & game engine</p>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Threads-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/SDL2-000000?style=for-the-badge" />
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/TuranAbdulkadir/Titan-Database-Java">🗄️ Titan Database</a></h3>
-      <p>In-Memory Key-Value Store with Persistence</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Database-blue?style=for-the-badge" />
+      <h3><a href="https://github.com/TuranAbdulkadir/kaless-engine">🌐 kaless-engine</a></h3>
+      <p>AI-powered statistics platform backend</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/TuranAbdulkadir/balina-bot">🤖 balina-bot</a></h3>
+      <p>Production-grade Binance Futures trading bot</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AsyncIO-000000?style=for-the-badge" />
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/TuranAbdulkadir/Python-Advanced-Projects">🐍 Python-Advanced-Projects</a></h3>
+      <p>252 Python projects (CyberSec, AI, Automation)</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -110,6 +111,14 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TuranAbdulkadir/TuranAbdulkadir/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+---
+
+### 📚 Currently Learning
+
+- Machine Learning
+- System Design
+- DevOps
 
 ---
 
